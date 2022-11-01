@@ -24,4 +24,4 @@ Canceled and the program is stopped and the new plan is created.
 
      Done now will say no to add more transport!
 
-        Total : \8,860   Great!!! Thank you for watching!!!
+        Total : \8,860   Great!!!
